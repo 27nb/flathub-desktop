@@ -1,3 +1,6 @@
+# NOTE:
+This is a fork from Jean28518's repo. This is just to make some slight adjustments and send a pull-request that will hopefully be accepted.
+
 # Flathub Desktop
 Unofficial Desktop Client for Flathub
 
